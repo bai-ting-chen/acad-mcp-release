@@ -1,6 +1,6 @@
 # acad-mcp
 
-Let Claude Code or Codex read, draw, and edit in AutoCAD. Version **0.16.0**.
+Let Claude Code or Codex read, draw, and edit in AutoCAD. Version **0.16.1**.
 
 **Claude Code is the tested client. Codex support is new and untested in AutoCAD.**
 
@@ -45,7 +45,7 @@ $installExitCode = $LASTEXITCODE
 
 ## Install
 
-1. Download `acad-mcp-v0.16.0.zip` from the [Releases page](https://github.com/bai-ting-chen/acad-mcp-release/releases).
+1. Download `acad-mcp-v0.16.1.zip` from the [Releases page](https://github.com/bai-ting-chen/acad-mcp-release/releases).
 2. Extract the whole zip into a folder. Do not run the script from inside the zip.
 3. Close AutoCAD. Your AI assistant can stay open.
 4. Right-click `install.ps1` in the extracted folder and choose **Run with PowerShell**. Keep the other extracted files beside it.
@@ -93,7 +93,7 @@ Use a practice drawing for your first tries. You can undo drawing edits in AutoC
 
 ## Feedback
 
-Send feedback **directly to Bai-Ting Chen**, by email or Teams. Quote **version 0.16.0** (or ask Claude to `ping` and copy the version), what you asked for, and what happened. Include a screenshot if useful. Avoid sending project details you are not allowed to share. Feedback is not collected through public GitHub Issues.
+Send feedback **directly to Bai-Ting Chen**, by email or Teams. Quote **version 0.16.1** (or ask Claude to `ping` and copy the version), what you asked for, and what happened. Include a screenshot if useful. Avoid sending project details you are not allowed to share. Feedback is not collected through public GitHub Issues.
 
 ## Update
 
